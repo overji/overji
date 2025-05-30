@@ -24,9 +24,8 @@ Interesting projects I've finished:
 + [电子书城后端](https://github.com/overji/EBookBackend)
 + [LSM-KV](https://github.com/overji/LSM-KV)
 
-Contact me: [Email](mailto:overji1@sjtu.edu.cn) | [Bilibili](https://space.bilibili.com/5200237)｜[xiaohongshu(小红书)](https://www.xiaohongshu.com/user/profile/621ed0df00000000100059cf)
+Contact me: [Email](mailto:overji1@sjtu.edu.cn)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 ----
 
